@@ -1,21 +1,12 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Conference**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- 中国材料大会2024暨第二届世界材料大会（2024.07  参会并进行汇报）
+- 第六届电力与能源应用国际会议（2023.11）
+- 第二届电子通信工程研讨会（2023.10）
+- 第七届国际集成电路与微系统大会（2022.10）
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 实验技能
+- 实验设计：针对研究领域，能够独立自主构思课题，可灵活解决相关理论、仿真和实验过程中存在的问题。
+- 仪器使用：精通磁控溅射、热蒸发镀膜、扫描电镜（SEM）、光刻、退火、剥离等半导体工艺和表征设备。
+- 数据与仿真：熟练掌握Origin、office和有限元分析（COMSOL）等软件操作。
 
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
