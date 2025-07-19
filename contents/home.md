@@ -1,10 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+
+I'm currently pursuing a Doctor of Philosophy in Nanjing University at the Department of Physics.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>changhuan@m.scnu.edu.cn</code>  
+
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
