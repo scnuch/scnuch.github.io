@@ -1,6 +1,6 @@
 #### 学术论文
 
-- (1)	Huan Chang, Jizhong Zhao, Rui Qin, et al. An Ultra-Wideband Acoustic Sensor Based on Acoustic Metasurface Lens. Advanced Functional Materials ( 中科院1区 IF:19*硕士)
+- (1)	Huan Chang, Jizhong Zhao, Rui Qin, et al. Ultra-WidebandHybrid Triboelectric-PiezoelectricAcoustic Sensors Enabled byAcoustic Metasurface ens forEnvironment Perception and edicalImaging. Advanced Functional Materials ( 中科院1区 IF:19*硕士)
 - (2)	Huan Chang, Wenbo Ding*, Xingfu Wang*, et.al Theoretical Modeling of Triboelectric Receiver transducer for Mechanic-Electrical Transformations Nano Energy（中科院1区 IF:16.8 *硕士）
 - (3)	P. Li, Y. Yang, Z. Dong, X. Huang, Y. Wang, H. Chang, Z. Song, Z. Peng, K. Zhang*, X. Wang*, Piezo-phototronic effect modulated performances of guest-substrate integrated p–i–n GaN ultraviolet detectors, Journal of Materials Chemistry C（中科院2区 IF:5.7*硕士）
 - (4)	WANG H, LI P, DONG Z, YANG Y, CHANG H, et al. A silicon-based InGaN/GaN microbelt blue light-emitting-diode fabricated via low-temperature direct bonding , Journal of Materials Chemistry C（中科院2区 IF:5.7*硕士）
